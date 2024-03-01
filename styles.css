@@ -1,2 +1,11 @@
+img{
+	height: 300px;
+	weight:	300px;
+}
 
-/* Your CSS Code here. */
+#name_sec {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
